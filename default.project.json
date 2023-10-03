@@ -4,15 +4,17 @@
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-      "Shared": {
         "$path": "src/shared"
-      }
-    },
+      },
 
     "ServerScriptService": {
       "Server": {
         "$path": "src/server"
       }
+    },
+
+    "ServerStorage": {
+      "$path": "src/storage"
     },
 
     "StarterPlayer": {
@@ -65,7 +67,8 @@
     },
     "SoundService": {
       "$properties": {
-        "RespectFilteringEnabled": true
+        "RespectFilteringEnabled": false,
+        "DistanceFactor": 5
       }
     }
   }

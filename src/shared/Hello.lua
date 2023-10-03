@@ -1,3 +1,7 @@
-return function()
-	print("Hello, world!")
-end
+local moduel = {}
+
+print(true)
+
+print(1)
+
+return moduel
