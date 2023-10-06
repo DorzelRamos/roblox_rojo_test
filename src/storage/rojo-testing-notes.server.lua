@@ -1,0 +1,8 @@
+-- testing commit
+-- .server means scripts
+-- .client means local scripts
+-- ."type any name" means module script
+-- the "shared" folder in the src means ReplicatedStorage in rblx studio
+-- anything you do here lets you change anything in rblx studio, but not the otherway around *
+-- you can create directories inside the src folder by going into the json file and adding it to the list *
+-- see ServerStorage as an example*

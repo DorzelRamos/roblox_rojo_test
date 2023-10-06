@@ -1,0 +1,1 @@
+-- this is an example of a script inside the shared folder/ReplicatedStorage
